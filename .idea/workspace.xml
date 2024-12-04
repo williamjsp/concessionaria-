@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8468345e-9ab5-4b20-8154-808709700d82" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/AVLojaCarroBD" beforeDir="false" afterPath="$PROJECT_DIR$/AVLojaCarroBD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/connection/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/controller/connection/DataBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/entidades/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/model/entidades/Admin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/entidades/Automovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/model/entidades/Automovel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/entidades/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/model/entidades/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/entidades/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/model/entidades/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/menus/MenuAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/view/menus/MenuAdmin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/menus/MenuCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/view/menus/MenuCliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/menus/MenuPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/view/menus/MenuPrincipal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/utilidades/Autenticador.java" beforeDir="false" afterPath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/view/utilidades/Autenticador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/utilidades/AutomovelUtilidades.java" beforeDir="false" afterPath="$PROJECT_DIR$/AVLojaCarroBD/src/main/java/view/utilidades/AutomovelUtilidades.java" afterDir="false" />
-    </list>
+    <list default="true" id="8468345e-9ab5-4b20-8154-808709700d82" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +24,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/fabri/Desktop/java/sasasaa/src/Main.java"
   }
